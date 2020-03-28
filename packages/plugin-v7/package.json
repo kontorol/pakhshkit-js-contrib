@@ -1,7 +1,7 @@
 {
     "name": "@pakhshkit-js/pakhshkit-js-ovp-v7",
     "private": false,
-    "version": "1.1.0",
+    "version": "1.1.1",
     "license": "AGPL-3.0",
     "author": "Kontorol",
     "repository": {
@@ -50,6 +50,6 @@
         "CHANGELOG.md"
     ],
     "dependencies": {
-        "@pakhshkit-js/pakhshkit-js-ovp": "^1.1.0"
+        "@pakhshkit-js/pakhshkit-js-ovp": "^1.1.1"
     }
 }
