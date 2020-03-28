@@ -1,16 +1,11 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "npmClient": "npm",
-  "command": {
-    "publish": {
-      "allowBranch": "master",
-      "ignoreChanges": [
-        "ignored-file",
-        "*.md"
-      ]
-    }
-  },
-  "version": "1.1.0"
+    "packages": ["packages/*"],
+    "npmClient": "npm",
+    "command": {
+        "publish": {
+            "allowBranch": "1.1.0",
+            "ignoreChanges": ["ignored-file", "*.md"]
+        }
+    },
+    "version": "1.1.0"
 }
