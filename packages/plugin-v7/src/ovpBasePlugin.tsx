@@ -5,7 +5,7 @@ import { UIManager } from "./uiManager";
 
 // TODO try to remove the 'as any'
 // @ts-ignore
-export abstract class OVPBasePlugin extends (KalturaPlayer as any).core.BasePlugin {
+export abstract class OVPBasePlugin extends (KontorolPlayer as any).core.BasePlugin {
     static defaultConfig = {};
     private _uiManager: UIManager;
     //protected playerCompat = new PlayerCompat(this.player);

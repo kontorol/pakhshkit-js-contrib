@@ -1,2 +1,2 @@
-# Playkit OVP services for player v7
+# Pakhshkit OVP services for player v7
 

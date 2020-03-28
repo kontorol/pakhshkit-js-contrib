@@ -3,18 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.1.0](https://github.com/kaltura/playkit-js-ovp/compare/v1.0.1-next.2...v1.1.0) (2019-05-06)
+# [1.1.0](https://github.com/kontorol/pakhshkit-js-ovp/compare/v1.0.1-next.2...v1.1.0) (2019-05-06)
 
 
 ### Features
 
-* **plugin-v7:** improve ovp base plugin api ([5673c7e](https://github.com/kaltura/playkit-js-ovp/commit/5673c7e))
+* **plugin-v7:** improve ovp base plugin api ([5673c7e](https://github.com/kontorol/pakhshkit-js-ovp/commit/5673c7e))
 
 
 
 
 
-## [1.0.1-next.2](https://github.com/kaltura/playkit-js-ovp/compare/v1.0.1-next.1...v1.0.1-next.2) (2019-05-05)
+## [1.0.1-next.2](https://github.com/kontorol/pakhshkit-js-ovp/compare/v1.0.1-next.1...v1.0.1-next.2) (2019-05-05)
 
 **Note:** Version bump only for package root
 
@@ -22,18 +22,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.1-next.1](https://github.com/kaltura/playkit-js-ovp/compare/v1.0.1-next.0...v1.0.1-next.1) (2019-05-05)
+## [1.0.1-next.1](https://github.com/kontorol/pakhshkit-js-ovp/compare/v1.0.1-next.0...v1.0.1-next.1) (2019-05-05)
 
 
 ### Bug Fixes
 
-* prevent dev script that install peers when installed as a dependency ([2aaa08f](https://github.com/kaltura/playkit-js-ovp/commit/2aaa08f))
+* prevent dev script that install peers when installed as a dependency ([2aaa08f](https://github.com/kontorol/pakhshkit-js-ovp/commit/2aaa08f))
 
 
 
 
 
-## [1.0.1-next.0](https://github.com/kaltura/playkit-js-ovp/compare/v1.0.0-rc.1...v1.0.1-next.0) (2019-05-05)
+## [1.0.1-next.0](https://github.com/kontorol/pakhshkit-js-ovp/compare/v1.0.0-rc.1...v1.0.1-next.0) (2019-05-05)
 
 **Note:** Version bump only for package root
 
@@ -45,12 +45,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/kaltura/playkit-js-ovp/compare/v1.0.0-rc.0...v1.0.0-rc.1) (2019-04-08)
+# [1.0.0-rc.1](https://github.com/kontorol/pakhshkit-js-ovp/compare/v1.0.0-rc.0...v1.0.0-rc.1) (2019-04-08)
 
 
 ### Features
 
-* use name and classname of root component provided by plugin ([f34514e](https://github.com/kaltura/playkit-js-ovp/commit/f34514e))
+* use name and classname of root component provided by plugin ([f34514e](https://github.com/kontorol/pakhshkit-js-ovp/commit/f34514e))
 
 
 
@@ -59,4 +59,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* add ui manager, cuepoint engine and cuepoint layout engine ([b1abf02](https://github.com/kaltura/playkit-js-ovp/commit/b1abf02))
+* add ui manager, cuepoint engine and cuepoint layout engine ([b1abf02](https://github.com/kontorol/pakhshkit-js-ovp/commit/b1abf02))

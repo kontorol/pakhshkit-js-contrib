@@ -22,7 +22,7 @@ export function log(
 
 export function enableLogIfNeeded(prefix?: string) {
     try {
-        if (document.URL.indexOf("debugKalturaPlayer") !== -1) {
+        if (document.URL.indexOf("debugKontorolPlayer") !== -1) {
             enableLog(prefix);
         }
     } catch (e) {

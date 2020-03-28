@@ -2,10 +2,10 @@
   "name": "root",
   "private": true,
   "license": "AGPL-3.0",
-  "author": "Kaltura",
+  "author": "Kontorol",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaltura/playkit-js-ovp"
+    "url": "https://github.com/kontorol/pakhshkit-js-ovp"
   },
   "scripts": {
     "build": "lerna run build",
